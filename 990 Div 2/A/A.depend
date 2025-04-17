@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1740327098 source:c:\users\leonf\documents\c++study\codeforces\990 div 2\a\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<iomanip>
+	<iterator>
+	<numeric>
+
